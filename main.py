@@ -14,8 +14,7 @@ import os
 app = Flask(__name__)
 
 #環境変数取得
-token = 'Mf6pxCIdceWLTfpjY3wBq5YND7IAe+jKAm3DH9MGoLb+GIpLNetKS1tI3OoR4LTRmx7yH+ZEtFojzpY36qGQVL1e+ar++1cl+yMjX00j0u1tYHaCz2CovYG3psVY37Bo2ODuIzSlN87/uznM4l1baQdB04t89/1O/w1cDnyilFU=
-'
+token = 'nzYnRJXfglQdIxWnFSp4CPkQ9eTVAWlSthIqs6P6FLVgKfo+FlBAthkhNmELfAlmmx7yH+ZEtFojzpY36qGQVL1e+ar++1cl+yMjX00j0u2uEQ8+dCOyBV6ZUBxYyZRg7cCaynZpe93g2OJxSmDPcwdB04t89/1O/w1cDnyilFU='
 secret = 'ee73a91ea2873974ed5d63a6db562019'
 
 YOUR_CHANNEL_ACCESS_TOKEN = os.environ[token]
